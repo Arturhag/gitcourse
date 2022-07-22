@@ -1,0 +1,5 @@
+#игнорить файл errors.txt
+errors.txt
+
+#игнорим папку логс
+/logs
